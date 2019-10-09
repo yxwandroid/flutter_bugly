@@ -31,8 +31,8 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     super.initState();
     FlutterBugly.init(
-      androidAppId: "your android id",
-      iOSAppId: "your app id",
+      androidAppId: "ad4a2c32db",
+      iOSAppId: "c1941074f6",
     ).then((_result) {
       setState(() {
         _platformVersion = _result.message;
