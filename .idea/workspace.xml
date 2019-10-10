@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60b5e7d9-e47e-450b-8a8f-8f257d980c94" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="60b5e7d9-e47e-450b-8a8f-8f257d980c94" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +23,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1156">
+            <state relative-caret-position="1501">
               <caret line="95" column="50" selection-start-line="95" selection-start-column="39" selection-end-line="95" selection-end-column="50" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
@@ -149,6 +147,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1080" y="-712" width="1080" height="1920" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32851636" />
@@ -160,7 +159,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.32972974" />
-      <window_info anchor="bottom" id="Run" order="1" visible="true" weight="0.18702702" />
+      <window_info anchor="bottom" id="Run" order="1" weight="0.18702702" />
       <window_info anchor="bottom" id="Logcat" order="2" />
       <window_info anchor="bottom" id="TODO" order="3" />
       <window_info anchor="bottom" id="Android Profiler" order="4" show_stripe_button="false" />
@@ -222,7 +221,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
+        <state relative-caret-position="1501">
           <caret line="95" column="50" selection-start-line="95" selection-start-column="39" selection-end-line="95" selection-end-column="50" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
